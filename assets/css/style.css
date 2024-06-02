@@ -4,7 +4,7 @@
 
 
 /**
- * copyright 2022 @codewithsadee
+ * copyright 2024 @prakharsharma
  */
 
 
@@ -334,6 +334,10 @@ main {
 .avatar-box {
   background: var(--bg-gradient-onyx);
   border-radius: 20px;
+}
+
+.avtar-img{
+  border: 20px;
 }
 
 .info-content .name {
@@ -752,6 +756,10 @@ main {
   width: 100%;
   filter: grayscale(1);
   transition: var(--transition-1);
+}
+
+.clients-item .rsis-logo{
+  width: 120px;
 }
 
 .clients-item img:hover { filter: grayscale(0); }

@@ -1050,6 +1050,9 @@ main {
   gap: 20px;
 }
 
+
+
+
 .blog-post-item > a {
   position: relative;
   background: var(--border-gradient-onyx);
